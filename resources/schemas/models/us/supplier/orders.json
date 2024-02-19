@@ -3,7 +3,7 @@
     "info": {
         "title": "Order Management",
         "description": "The Walmart Order Management APIs help Drop Ship Vendors stay up to date on order fulfillment.",
-        "version": "0.6.3"
+        "version": "0.7.0"
     },
     "servers": [
         {

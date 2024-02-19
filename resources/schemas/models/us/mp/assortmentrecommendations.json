@@ -3,7 +3,7 @@
     "info": {
         "title": "Assortment Recommendations",
         "description": "Assortment growth recommendations help sellers onboard the in-demand catalog. We leverage customer demand signals to generate personalized catalog recommendations for the sellers.\n\nSome of these signals include- \n*   Internal and external search \n*   Walmart Best Sellers\n*   Top trending items\n\nSellers can shortlist and download the recommendations using filters such as brand, category, pricing and item availability status on Walmart. Sellers can then proceed to set up the items based on these recommendations using the Item Setup APIs.\n",
-        "version": "0.6.3"
+        "version": "0.7.0"
     },
     "servers": [
         {

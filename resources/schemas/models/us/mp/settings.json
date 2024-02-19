@@ -3,7 +3,7 @@
     "info": {
         "title": "Settings Management",
         "description": "Settings Management API",
-        "version": "0.6.3"
+        "version": "0.7.0"
     },
     "servers": [
         {
