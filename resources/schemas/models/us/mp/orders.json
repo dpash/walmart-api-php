@@ -3149,7 +3149,7 @@
                         "$ref": "#\/components\/schemas\/ShippingInfoType"
                     },
                     "orderLines": {
-                        "$ref": "#\/components\/schemas\/RefundLinesType"
+                        "$ref": "#\/components\/schemas\/OrderLinesType"
                     },
                     "paymentTypes": {
                         "type": "array",
